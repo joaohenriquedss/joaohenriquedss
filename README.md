@@ -1,8 +1,9 @@
-### Hello my friends, my name is João 👋
+## Hello my friends, my name is João 👋
 
 ### 🔭 Developer ...
 
 - 🔭 I'm working as a systems analyst and data scientist
+
 
 ### Connect with me:
 
