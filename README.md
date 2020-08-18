@@ -3,7 +3,13 @@
 ### 🔭 Developer ...
 
 - I'm working as a systems analyst and data scientist
+### 🔭 I’m currently working on ...
 
+- NodeJs projects
+- Machine learning
+- Data analysis
+- Software testing
+- Django
 
 ### 📫 Connect with me:
 
