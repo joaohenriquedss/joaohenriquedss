@@ -1,10 +1,7 @@
 ## Hello my friends, my name is João 👋
 
-### 🔭 Developer ...
-
-- I'm working as a systems analyst and data scientist
 ### 🔭 I’m currently working on ...
-
+- I'm working as a systems analyst and data scientist
 - NodeJs projects
 - Machine learning
 - Data analysis
