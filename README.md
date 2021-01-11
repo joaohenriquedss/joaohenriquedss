@@ -12,6 +12,7 @@
 - Data analysis
 - Software testing
 - Django
+- Docker
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-henrique-4557211a6/" align="right">
   <img src="https://ci3.googleusercontent.com/proxy/ENFOUZMmC_vSb3ZzfO7fuSlgT7atrTn4M9igY8lF_tMC3gfXl6Do59TMLaE181xEDAom07tzTL1LYi1AgU9C9K9LfIfEwtSUqzK4fDE10_-gAvAZ8uD5t_BhRwcOGvQIUMDIUJfg=s0-d-e1-ft#https://octocat-generator-assets.githubusercontent.com/my-octocat-1599140976032.png" width="305" height="350" align="right">
