@@ -7,6 +7,7 @@
 
 ### 🔭 I’m currently working on ...
 - I'm working as a systems analyst and data scientist
+- Python <3
 - NodeJs projects
 - Machine learning
 - Data analysis
